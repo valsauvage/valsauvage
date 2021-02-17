@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @valsauvage
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning Javascript
+- 🌱 I’m currently learning Javascript and PHP
 - 💞️ I’m looking to collaborate on web apps, web design & development
 - 📫 How to reach me : valencore@gmail.com
 
