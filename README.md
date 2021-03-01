@@ -2,7 +2,7 @@
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning Javascript and PHP
 - 💞️ I’m looking to collaborate on web apps, web design & development
-- 📫 How to reach me : valencore@gmail.com
+- 📫 How to reach me : valmetz@live.fr
 
 <!---
 valsauvage/valsauvage is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
