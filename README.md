@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on web apps, web design & development
 - 📫 How to reach me : valmetz@live.fr
 
-- My online CV https://valsauvage.github.io/Project001/
+- My online CV https://valsauvage.github.io/project001-online-CV/
 
 <!---
 valsauvage/valsauvage is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
